@@ -11,7 +11,8 @@
       "env",
       "stage-2",
       "react"
-    ]
+    ],
+    "plugins": []
   },
   "keywords": [],
   "author": "",
